@@ -8,4 +8,4 @@ Give a database name as (bld_dntn) hit on create button.
 After creating database name click on import.
 import the sql file provided.
 
-DEMO VIDEO: https://youtu.be/BkhqRQ8SS_w?feature=shared
+DEMO VIDEO: https://drive.google.com/file/d/1If2KIgo_ap6315kvQzZ4sdP3KLoiITtA/view?usp=sharing
